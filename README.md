@@ -1,5 +1,5 @@
 # E-Commerce-Profit-and-sales_Project.pbix
-Interactive Power BI dashboard for E-Commerce Sales &amp; Profit Analysis using DAX, Power Query, data modeling, KPI tracking, and data visualization to generate business insights and support data-driven decisions.
+This Power BI project focuses on analyzing E-Commerce sales and profit performance using interactive dashboards. It includes data cleaning, transformation, DAX calculations, KPI analysis, sales trends, product performance, customer insights, and regional analysis. The dashboard helps identify business growth opportunities and supports data-driven decision-making through effective data visualization.
 
 
 ![image alt](https://github.com/sukhdevesnehal986-netizen/E-Commerce-Profit-and-sales_Project.pbix/blob/c0c45e3aece36ee8bddff47e406751e442445061/E-Commerce%20Profit%20and%20Sales%20Analysis%20Cover.png)
